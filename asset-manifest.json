@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/free-apis/static/css/main.df13cf9d.chunk.css",
+    "main.js": "/free-apis/static/js/main.03829396.chunk.js",
+    "main.js.map": "/free-apis/static/js/main.03829396.chunk.js.map",
+    "runtime-main.js": "/free-apis/static/js/runtime-main.277c6c0f.js",
+    "runtime-main.js.map": "/free-apis/static/js/runtime-main.277c6c0f.js.map",
+    "static/js/2.fbaa12bf.chunk.js": "/free-apis/static/js/2.fbaa12bf.chunk.js",
+    "static/js/2.fbaa12bf.chunk.js.map": "/free-apis/static/js/2.fbaa12bf.chunk.js.map",
+    "static/js/3.8c14d475.chunk.js": "/free-apis/static/js/3.8c14d475.chunk.js",
+    "static/js/3.8c14d475.chunk.js.map": "/free-apis/static/js/3.8c14d475.chunk.js.map",
+    "index.html": "/free-apis/index.html",
+    "static/css/main.df13cf9d.chunk.css.map": "/free-apis/static/css/main.df13cf9d.chunk.css.map",
+    "static/js/2.fbaa12bf.chunk.js.LICENSE.txt": "/free-apis/static/js/2.fbaa12bf.chunk.js.LICENSE.txt",
+    "static/media/all.c33cde99.svg": "/free-apis/static/media/all.c33cde99.svg",
+    "static/media/category.2b537e33.svg": "/free-apis/static/media/category.2b537e33.svg",
+    "static/media/github.4b721bbc.svg": "/free-apis/static/media/github.4b721bbc.svg",
+    "static/media/logo.d85caf52.svg": "/free-apis/static/media/logo.d85caf52.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.277c6c0f.js",
+    "static/js/2.fbaa12bf.chunk.js",
+    "static/css/main.df13cf9d.chunk.css",
+    "static/js/main.03829396.chunk.js"
+  ]
+}
